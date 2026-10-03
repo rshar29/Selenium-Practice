@@ -44,16 +44,6 @@ public class ReadingDataFromExcel {
 		workbook.close();
 		file.close();
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 

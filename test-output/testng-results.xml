@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="8" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-04T00:54:11 IST" name="groupingsuite" finished-at="2026-10-04T00:54:11 IST" duration-ms="103">
+    <groups>
+      <group name="functional">
+        <method signature="PaymetTests_Grouping.paymentByDollers()[pri:1, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" name="paymentByDollers" class="Day44_TestNG_04.PaymetTests_Grouping"/>
+        <method signature="PaymetTests_Grouping.paymentInRupees()[pri:2, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" name="paymentInRupees" class="Day44_TestNG_04.PaymetTests_Grouping"/>
+      </group> <!-- functional -->
+      <group name="regression">
+        <method signature="PaymetTests_Grouping.paymentByDollers()[pri:1, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" name="paymentByDollers" class="Day44_TestNG_04.PaymetTests_Grouping"/>
+        <method signature="PaymetTests_Grouping.paymentInRupees()[pri:2, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" name="paymentInRupees" class="Day44_TestNG_04.PaymetTests_Grouping"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="PaymetTests_Grouping.paymentByDollers()[pri:1, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" name="paymentByDollers" class="Day44_TestNG_04.PaymetTests_Grouping"/>
+        <method signature="PaymetTests_Grouping.paymentInRupees()[pri:2, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" name="paymentInRupees" class="Day44_TestNG_04.PaymetTests_Grouping"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2026-10-04T00:54:11 IST" name="groupingsuite" finished-at="2026-10-04T00:54:11 IST" duration-ms="103">
+      <class name="Day44_TestNG_04.PaymetTests_Grouping">
+        <test-method signature="paymentByDollers()[pri:1, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" started-at="2026-10-04T00:54:11 IST" name="paymentByDollers" finished-at="2026-10-04T00:54:11 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentByDollers -->
+        <test-method signature="paymentInRupees()[pri:2, instance:Day44_TestNG_04.PaymetTests_Grouping@2c07545f]" started-at="2026-10-04T00:54:11 IST" name="paymentInRupees" finished-at="2026-10-04T00:54:11 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentInRupees -->
+      </class> <!-- Day44_TestNG_04.PaymetTests_Grouping -->
+    </test> <!-- groupingsuite -->
+  </suite> <!-- groupingsuite -->
+</testng-results>
